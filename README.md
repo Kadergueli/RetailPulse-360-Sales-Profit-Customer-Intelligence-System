@@ -52,7 +52,7 @@ RETAILPULSE-360/
 ├── visuals/
 │   └── (exported charts and dashboard screenshots)
 ├── report/
-│   └── RetailPulse360_OumarMahamatKadergueli_Professional_Report.pdf
+│   └── RetailPulse360_OumarMahamatKadergueli_Report.pdf
 └── requirements.txt
 ```
 
