@@ -48,11 +48,11 @@ RETAILPULSE-360/
 ├── README.md
 ├── RetailPulse360_OumarMahamatKadergueli.ipynb
 ├── dataset/
-│   └── superstore.csv
+│   └── sample_-_superstore.xls
 ├── visuals/
 │   └── (exported charts and dashboard screenshots)
 ├── report/
-│   └── RetailPulse360_Professional_Report.docx
+│   └── RetailPulse360_OumarMahamatKadergueli_Professional_Report.pdf
 └── requirements.txt
 ```
 
